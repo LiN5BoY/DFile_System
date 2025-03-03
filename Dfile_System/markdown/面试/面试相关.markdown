@@ -1,0 +1,68 @@
+# 面试相关（C/C++）
+## 1. const
+① 修饰变量——变量不可改变
+② 修饰指针——分为指向常量的指针（pointer to const）和自身是常量的指针（常量指针，const pointer）；
+③ 修饰引用——指向常量的引用（reference to const），用于形参类型，即避免了拷贝，又避免了函数对值的修改
+④ 修饰成员函数——说明该成员函数内不能修改成员变量。
+```cpp
+// 类
+class A
+{
+private:
+    const int a;                // 常对象成员，可以使用初始化列表或者类内初始化
+
+public:
+    // 构造函数
+    A() : a(0) { };
+    A(int x) : a(x) { };        // 初始化列表
+
+    // const可用于对重载函数的区分
+    int getValue();             // 普通成员函数
+    int getValue() const;       // 常成员函数，不得修改类中的任何数据成员的值
+};
+
+void function()
+{
+    // 对象
+    A b;                        // 普通对象，可以调用全部成员函数
+    const A a;                  // 常对象，只能调用常成员函数
+    const A *p = &a;            // 指针变量，指向常对象
+    const A &q = a;             // 指向常对象的引用
+
+    // 指针
+    char greeting[] = "Hello";
+    char* p1 = greeting;                // 指针变量，指向字符数组变量
+    const char* p2 = greeting;          // 指针变量，指向字符数组常量（const 后面是 char，说明指向的字符（char）不可改变）
+    char* const p3 = greeting;          // 自身是常量的指针，指向字符数组变量（const 后面是 p3，说明 p3 指针自身不可改变）
+    const char* const p4 = greeting;    // 自身是常量的指针，指向字符数组常量
+}
+
+// 函数
+void function1(const int Var);           // 传递过来的参数在函数内不可变
+void function2(const char* Var);         // 参数指针所指内容为常量
+void function3(char* const Var);         // 参数指针为常量
+void function4(const int& Var);          // 引用参数在函数内为常量
+
+// 函数返回值
+const int function5();      // 返回一个常数
+const int* function6();     // 返回一个指向常量的指针变量，使用：const int *p = function6();
+int* const function7();     // 返回一个指向变量的常指针，使用：int* const p = function7();
+```
+# 2.基础知识
+C++编译器自动为类产生的四个缺省函数：
+答：默认构造函数，拷贝构造函数，析构函数，赋值函数。
+其中 赋值运算符（Assignment Operator）：
+&nbsp;&nbsp;&nbsp;&nbsp; 当一个对象赋值给另一个对象时，编译器会调用赋值运算符。
+&nbsp;&nbsp;&nbsp;&nbsp; 赋值运算符的参数是对同一类对象的常量引用。
+```cpp
+class Example {
+public:
+    Example& operator=(const Example& other) {
+        // 赋值运算符
+        return *this;
+    }
+};
+```
+什么时候必须**重写拷贝构造函数**？
+当类的成员变量涉及到动态存储分配（例如使用 **new** 分配的内存）时，必须重写拷贝构造函数，以确保进行深拷贝。
+默认的拷贝构造函数只会进行浅拷贝，这可能会导致多个对象共享同一块内存，从而引发潜在的内存管理问题（如双重释放）。
