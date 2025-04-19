@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/JXCqmlTools">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools</file>
+
+  </qresource>
+</RCC>

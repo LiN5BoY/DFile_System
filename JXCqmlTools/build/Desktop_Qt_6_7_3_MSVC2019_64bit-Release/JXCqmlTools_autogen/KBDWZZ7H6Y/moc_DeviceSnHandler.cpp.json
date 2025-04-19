@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "DeviceSnHandler",
+            "object": true,
+            "qualifiedClassName": "DeviceSnHandler",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "DeviceSnHandler.h",
+    "outputRevision": 68
+}

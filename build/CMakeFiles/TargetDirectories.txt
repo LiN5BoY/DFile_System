@@ -1,0 +1,17 @@
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_qmltyperegistration.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/all_qmltyperegistrations.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_qmllint.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_qmllint_json.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_qmllint_module.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/all_qmllint.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/all_qmllint_json.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/all_qmllint_module.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_tooling.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_qmlimportscan.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/edit_cache.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/rebuild_cache.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/list_install_components.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/install.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/install/local.dir
+G:/Project/QT/JXCqmlTools/build/CMakeFiles/JXCqmlTools_autogen.dir

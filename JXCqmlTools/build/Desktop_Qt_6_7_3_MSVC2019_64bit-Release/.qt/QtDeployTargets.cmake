@@ -1,0 +1,5 @@
+set(__QT_DEPLOY_TARGET_QXlsx_FILE G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/QXlsx/QXlsxQt6.lib)
+set(__QT_DEPLOY_TARGET_QXlsx_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_JXCqmlTools_FILE G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/bin/JXCqmlTools.exe)
+set(__QT_DEPLOY_TARGET_JXCqmlTools_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_JXCqmlTools_RUNTIME_DLLS C:/Qt/6.7.3/msvc2019_64/bin/Qt6Quick.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6SerialPort.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Widgets.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Sql.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6QmlModels.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Qml.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Network.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6OpenGL.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Gui.dll;C:/Qt/6.7.3/msvc2019_64/bin/Qt6Core.dll)

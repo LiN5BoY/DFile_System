@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/qt/qml/JXCqmlTools/">
+    <file alias="qml/App.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/App.qml</file>
+    <file alias="qml/MainWindow.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/MainWindow.qml</file>
+    <file alias="qml/global/ItemsOriginal.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/global/ItemsOriginal.qml</file>
+    <file alias="qml/global/GlobalModel.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/global/GlobalModel.qml</file>
+    <file alias="qml/global/ItemsFooter.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/global/ItemsFooter.qml</file>
+    <file alias="qml/page/Xiaoju_Jiaoliu_Config.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/page/Xiaoju_Jiaoliu_Config.qml</file>
+    <file alias="qml/page/NWwdx_Jiaoliu_Config.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/page/NWwdx_Jiaoliu_Config.qml</file>
+    <file alias="qml/page/HC_Excel_Census.qml">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/page/HC_Excel_Census.qml</file>
+    <file alias="res.qrc">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/res.qrc</file>
+    <file alias="res.qrc">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/res.qrc</file>
+    <file alias="qml/global/qmldir">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/qml/global/qmldir</file>
+    <file alias="src/handler/HcHandler.c">D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/src/handler/HcHandler.c</file>
+  </qresource>
+</RCC>
+

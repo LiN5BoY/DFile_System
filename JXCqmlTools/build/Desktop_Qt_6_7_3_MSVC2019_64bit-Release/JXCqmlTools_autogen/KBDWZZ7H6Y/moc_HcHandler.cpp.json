@@ -1,0 +1,43 @@
+{
+    "classes": [
+        {
+            "className": "HcHandler",
+            "object": true,
+            "qualifiedClassName": "HcHandler",
+            "signals": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "data",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "send_err_data",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "station_name",
+                            "type": "QString"
+                        }
+                    ],
+                    "name": "onHc_excel_census_station_judge_err_button_Clicked",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "HcHandler.h",
+    "outputRevision": 68
+}

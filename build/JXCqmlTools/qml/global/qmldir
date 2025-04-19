@@ -1,0 +1,3 @@
+singleton ItemsOriginal 1.0 ItemsOriginal.qml
+
+singleton GlobalModel 1.0 GlobalModel.qml

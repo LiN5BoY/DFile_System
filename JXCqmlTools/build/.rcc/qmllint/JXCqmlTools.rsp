@@ -1,0 +1,16 @@
+--bare
+-I
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build
+-I
+C:/Qt/6.7.3/msvc2019_64/qml
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/.qt/rcc/qmake_JXCqmlTools.qrc
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/.qt/rcc/JXCqmlTools_raw_qml_0.qrc
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/App.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/MainWindow.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/global/ItemsOriginal.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/global/GlobalModel.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/global/ItemsFooter.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/page/Xiaoju_Jiaoliu_Config.qml
+G:/Project/QT/JXCqmlTools/JXCqmlTools/qml/page/NWwdx_Jiaoliu_Config.qml

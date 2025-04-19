@@ -1,0 +1,10 @@
+-I
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release
+-I
+C:/Qt/6.7.3/msvc2019_64/qml
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/.qt/rcc/qmake_JXCqmlTools.qrc
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release/.qt/rcc/JXCqmlTools_raw_qml_0.qrc
+--module
+JXCqmlTools

@@ -1,0 +1,17 @@
+{
+    "classes": [
+        {
+            "className": "Station",
+            "object": true,
+            "qualifiedClassName": "Station",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Station.h",
+    "outputRevision": 68
+}

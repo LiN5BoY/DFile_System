@@ -1,0 +1,13 @@
+module JXCqmlTools
+typeinfo JXCqmlTools.qmltypes
+prefer :/qt/qml/JXCqmlTools/
+App 1.0 qml/App.qml
+MainWindow 1.0 qml/MainWindow.qml
+ItemsOriginal 1.0 qml/global/ItemsOriginal.qml
+GlobalModel 1.0 qml/global/GlobalModel.qml
+ItemsFooter 1.0 qml/global/ItemsFooter.qml
+Xiaoju_Jiaoliu_Config 1.0 qml/page/Xiaoju_Jiaoliu_Config.qml
+NWwdx_Jiaoliu_Config 1.0 qml/page/NWwdx_Jiaoliu_Config.qml
+HC_Excel_Census 1.0 qml/page/HC_Excel_Census.qml
+CurveAnalysisTool 1.0 qml/page/CurveAnalysisTool.qml
+

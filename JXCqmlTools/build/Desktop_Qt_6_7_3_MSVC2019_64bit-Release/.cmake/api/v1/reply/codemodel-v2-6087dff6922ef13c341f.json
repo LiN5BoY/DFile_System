@@ -1,0 +1,221 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-dbeb818a1c8854c283f1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"build" : "QXlsx",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-QXlsx-Release-c37df79e0e51203e1d81.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "QXlsx",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "JXCqmlTools",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "QXlsx",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools-Release-2f9ad3a38bab82a15d8c.json",
+					"name" : "JXCqmlTools",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_autogen-Release-c356127cccfaf4edd94f.json",
+					"name" : "JXCqmlTools_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_qmlimportscan-Release-2dc587245c6d3d796747.json",
+					"name" : "JXCqmlTools_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_qmllint-Release-35962a259cbed0b958fd.json",
+					"name" : "JXCqmlTools_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_qmllint_json-Release-1f4be880f9bcc76d252e.json",
+					"name" : "JXCqmlTools_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_qmllint_module-Release-cf577c17ce1cede6287e.json",
+					"name" : "JXCqmlTools_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_qmltyperegistration-Release-073898c6418e9729c775.json",
+					"name" : "JXCqmlTools_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "JXCqmlTools_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-JXCqmlTools_tooling-Release-8ff3758fb66a64b1e87c.json",
+					"name" : "JXCqmlTools_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx-Release-6351666b72f0d6568416.json",
+					"name" : "QXlsx",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "QXlsx_autogen::@246fd2dd3a984c2618f9",
+					"jsonFile" : "target-QXlsx_autogen-Release-107dcd39e704259a649e.json",
+					"name" : "QXlsx_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Script-DeployRelease::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Script-DeployRelease-Release-60a72cd6e17aba409f35.json",
+					"name" : "Script-DeployRelease",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-631eaac5190347c4f002.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Release-ca9041fb16d516abf16d.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Release-9d5ae4367df8ad96cba1.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-492447048c56e95c6201.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "G:/Project/QT/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_7_3_MSVC2019_64bit-Release",
+		"source" : "G:/Project/QT/JXCqmlTools/JXCqmlTools"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

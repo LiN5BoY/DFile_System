@@ -1,0 +1,2 @@
+G:/Project/QT/JXCqmlTools/build/JXCqmlTools_autogen/include/../KBDWZZ7H6Y/moc_ButtonHandler.cpp.json
+G:/Project/QT/JXCqmlTools/build/JXCqmlTools_autogen/include/../KBDWZZ7H6Y/moc_DeviceSnHandler.cpp.json

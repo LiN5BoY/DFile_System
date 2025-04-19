@@ -1,0 +1,11 @@
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/.qt/rcc/qmake_JXCqmlTools.qrc
+--resource
+G:/Project/QT/JXCqmlTools/JXCqmlTools/build/.qt/rcc/JXCqmlTools_raw_qml_0.qrc
+/qt/qml/JXCqmlTools/qml/App.qml
+/qt/qml/JXCqmlTools/qml/MainWindow.qml
+/qt/qml/JXCqmlTools/qml/global/ItemsOriginal.qml
+/qt/qml/JXCqmlTools/qml/global/GlobalModel.qml
+/qt/qml/JXCqmlTools/qml/global/ItemsFooter.qml
+/qt/qml/JXCqmlTools/qml/page/Xiaoju_Jiaoliu_Config.qml
+/qt/qml/JXCqmlTools/qml/page/NWwdx_Jiaoliu_Config.qml

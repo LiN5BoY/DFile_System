@@ -1,0 +1,14 @@
+-rootPath
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools
+-cmake-output
+-output-file
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/.qt_plugins/Qt6_QmlPlugins_Imports_JXCqmlTools.cmake
+-importPath
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/JXCqmlTools
+-importPath
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release
+-importPath
+C:/Qt/6.6.3/msvc2019_64/./qml
+-qrcFiles
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/.rcc/qmake_JXCqmlTools.qrc
+D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/.rcc/JXCqmlTools_raw_qml_0.qrc
