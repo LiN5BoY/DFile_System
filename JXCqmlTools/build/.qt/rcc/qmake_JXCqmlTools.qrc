@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/JXCqmlTools">
-    <file alias="qmldir">G:/Project/QT/JXCqmlTools/JXCqmlTools/build/JXCqmlTools/qmldir</file>
-  </qresource>
-</RCC>
-

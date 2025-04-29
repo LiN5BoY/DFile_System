@@ -1,2 +1,0 @@
-D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/JXCqmlTools_autogen/include/../KBDWZZ7H6Y/moc_ButtonHandler.cpp.json
-D:/Projects/QT_PROJECT/JXC/JXCqmlTools/JXCqmlTools/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Release/JXCqmlTools_autogen/include/../KBDWZZ7H6Y/moc_DeviceSnHandler.cpp.json

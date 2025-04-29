@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\Project\\DFile_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8910E-4F2A-4F9E-8E44-65808D7735EC}|Dfile_System\\Dfile_System.vcxproj|C:\\Study\\Project\\DFile_System\\Dfile_System\\Mypointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59A8910E-4F2A-4F9E-8E44-65808D7735EC}|Dfile_System\\Dfile_System.vcxproj|solutionrelative:Dfile_System\\Mypointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A8910E-4F2A-4F9E-8E44-65808D7735EC}|Dfile_System\\Dfile_System.vcxproj|C:\\Study\\Project\\DFile_System\\Dfile_System\\MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59A8910E-4F2A-4F9E-8E44-65808D7735EC}|Dfile_System\\Dfile_System.vcxproj|solutionrelative:Dfile_System\\MyVector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyVector.cpp",
+              "DocumentMoniker": "C:\\Study\\Project\\DFile_System\\Dfile_System\\MyVector.cpp",
+              "RelativeDocumentMoniker": "Dfile_System\\MyVector.cpp",
+              "ToolTip": "C:\\Study\\Project\\DFile_System\\Dfile_System\\MyVector.cpp",
+              "RelativeToolTip": "Dfile_System\\MyVector.cpp",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowNsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T05:24:25.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mypointer.cpp",
+              "DocumentMoniker": "C:\\Study\\Project\\DFile_System\\Dfile_System\\Mypointer.cpp",
+              "RelativeDocumentMoniker": "Dfile_System\\Mypointer.cpp",
+              "ToolTip": "C:\\Study\\Project\\DFile_System\\Dfile_System\\Mypointer.cpp",
+              "RelativeToolTip": "Dfile_System\\Mypointer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T05:24:18.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
